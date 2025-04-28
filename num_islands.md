@@ -41,6 +41,8 @@ diagonal in the grid, which min(n, m).
 - contrast with a stack, whose worst case space complexity is O(n\*m) (true
   implicitly of a recursive solution too)
 
+For more: https://claude.ai/share/c743990e-f684-45e8-b9cb-67f5bcc6c9fb
+
 
 # Notes
 https://leetcode.com/problems/number-of-islands/editorial/comments/2968286/

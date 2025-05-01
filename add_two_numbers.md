@@ -1,4 +1,4 @@
-# LRU Cache
+# Add Two Numbers
 
 Link: https://leetcode.com/problems/add-two-numbers/description
 
@@ -32,7 +32,9 @@ Convert each list to a number, then add them, and construct a new list from that
 O(n) space, O(n) time. Honestly, not bad.
 
 # Improved Approach
-Still O(n) space and time, but we can utilize a single loop.
+we can utilize a single loop.
 Track digit sum and carry, and a pointer for each list. Add sum of two and
 carry, and create a new node and plop it at the end. Remember to handle the
 carry after the loop is over.
+O(n) time
+O(1) auxillary space

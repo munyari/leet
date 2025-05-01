@@ -1,6 +1,6 @@
 # Trapping rainwater
 
-Link: https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=two-pointers
+Link: https://leetcode.com/problems/trapping-rain-water
 
 # Assumptions
 - all heights are non-negative integers
